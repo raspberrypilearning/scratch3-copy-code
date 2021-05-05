@@ -1,8 +1,8 @@
 
-You can copy code from one sprite to another sprite in the Sprite list:
+Je kunt code van de ene sprite naar een andere sprite kopiëren in de Sprite-lijst:
 
-![Drag code from one sprite to another sprite, then let go of the code.](images/drag-parrot-code.gif)
+![Sleep code van de ene sprite naar de andere sprite en laat dan de code los.](images/drag-parrot-code.gif)
 
-Both sprites will have the code blocks that you have copied. You can delete the code from the first sprite if you want to move the code.
+Beide sprites hebben de codeblokken die je hebt gekopieerd. Je kunt de code uit de eerste sprite verwijderen als je de code wilt verplaatsen.
 
 

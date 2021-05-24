@@ -1,8 +1,8 @@
 
-You can copy code from one sprite to another sprite in the Sprite list:
+يمكنك نسخ التعليمات البرمجية من كائن إلى كائن آخر في قائمة كائن:
 
-![Drag code from one sprite to another sprite, then let go of the code.](images/drag-parrot-code.gif)
+![اسحب التعليمات البرمجية من كائن إلى كائن آخر ، ثم اترك التعليمات البرمجية.](images/drag-parrot-code.gif)
 
-Both sprites will have the code blocks that you have copied. You can delete the code from the first sprite if you want to move the code.
+سيحتوي كلا الكائنين على كتل التعليمات البرمجية التي نسختها. يمكنك حذف التعليمات البرمجية من الكائن الأول إذا كنت تريد نقل التعليمات البرمجية.
 
 

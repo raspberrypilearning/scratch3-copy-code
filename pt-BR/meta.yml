@@ -1,11 +1,11 @@
 ---
 title: Copie o código de um ator para outro
 hero_image: images/banner.png
-description: Drag code from the Code area of one sprite to another sprite
+description: Arraste o código da área de código de um ator para outro ator
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-23"
 steps:
   - 
-    title: Copy code from one sprite to another
+    title: Copie o código de um ator para outro

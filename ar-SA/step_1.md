@@ -1,8 +1,8 @@
 
 يمكنك نسخ التعليمات البرمجية من كائن إلى كائن آخر في قائمة كائن:
 
-![اسحب التعليمات البرمجية من كائن إلى كائن آخر ، ثم اترك التعليمات البرمجية.](images/drag-parrot-code.gif)
+![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
 
-سيحتوي كلا الكائنين على كتل التعليمات البرمجية التي نسختها. يمكنك حذف التعليمات البرمجية من الكائن الأول إذا كنت تريد نقل التعليمات البرمجية.
+سيحتوي كلا الكائنين على كتل التعليمات البرمجية التي نسختها. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
 
 

@@ -1,11 +1,11 @@
 ---
 title: Copiar código de un objeto a otro
 hero_image: images/banner.png
-description: Drag code from the Code area of one sprite to another sprite
+description: Arrastra el código del área de código de un objeto a otro
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-23"
 steps:
   - 
-    title: Copy code from one sprite to another
+    title: Copiar código de un objeto a otro

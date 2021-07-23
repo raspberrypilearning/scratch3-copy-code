@@ -1,11 +1,11 @@
 ---
 title: Αντιγραφή κώδικα από το ένα αντικείμενο στο άλλο
 hero_image: images/banner.png
-description: Drag code from the Code area of one sprite to another sprite
+description: Σύρε τον κώδικα από την περιοχή κώδικα ενός αντικειμένου σε ένα άλλο αντικείμενο
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-23"
 steps:
   - 
-    title: Copy code from one sprite to another
+    title: Αντιγραφή κώδικα από το ένα αντικείμενο στο άλλο

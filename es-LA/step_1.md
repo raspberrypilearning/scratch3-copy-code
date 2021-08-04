@@ -1,8 +1,8 @@
 
 Puedes copiar el código de un objeto a otro objeto en la lista de Objetos:
 
-![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
+![Arrastra el código desde el área de Código de un objeto a otro objeto en la lista de objetos y luego suelta el código.](images/drag-parrot-code.gif)
 
-Ambos objetos tendrán los bloques de código que has copiado. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
+Ambos objetos tendrán los bloques de código que has copiado. Si estás moviendo el código de un objeto a otro, puedes eliminar el código del primer objeto después de haberlo copiado en el otro objeto.
 
 

@@ -1,0 +1,10 @@
+---
+title: あるスプライトから別のスプライトにコードをコピーする
+hero_image: images/banner.png
+description: あるスプライトのコードエリアから別のスプライトにコードをドラッグします
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-23"
+steps:
+  - title: あるスプライトから別のスプライトにコードをコピーする

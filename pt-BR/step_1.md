@@ -1,8 +1,8 @@
 
 Você pode copiar o código de um ator para outro ator na lista de Atores:
 
-![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
+![Arraste o código da área de código de um ator para outro ator na lista de atores e, em seguida, solte o código.](images/drag-parrot-code.gif)
 
-Ambos os atores terão os blocos de código que você copiou. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
+Ambos os atores terão os blocos de código que você copiou. Se você está movendo o código de um ator para outro, você pode deletar o código do primeiro ator depois de copiá-lo para o outro ator.
 
 

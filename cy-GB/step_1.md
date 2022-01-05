@@ -1,8 +1,8 @@
 
-You can copy code from one sprite to another sprite in the Sprite list:
+Galli di gopïo cod o un corlun i gorlun arall yn y rhestr Corluniau:
 
-![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
+![Llusga god o ardal Cod un corlun i gorlun arall yn y rhestr Corluniau, yna gad fynd o'r cod.](images/drag-parrot-code.gif)
 
-Both sprites will have the code blocks that you have copied. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
+Bydd gan y ddau gorlun y blociau cod rwyt ti wedi'u copïo. Os wyt ti'n symud y cod o un corlun i'r llall, galli di ddileu'r cod o'r corlun cyntaf ar ôl i ti ei gopïo i'r corlun arall.
 
 

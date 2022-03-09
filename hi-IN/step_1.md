@@ -1,8 +1,8 @@
 
-You can copy code from one sprite to another sprite in the Sprite list:
+आप sprite सूची में एक sprite से दूसरे sprite में कोड कॉपी कर सकते हैं:
 
-![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
+![Sprite सूची में कोड को एक स्प्राइट के Code क्षेत्र से दूसरे स्प्राइट में खींचें, फिर कोड को छोड़ दें।](images/drag-parrot-code.gif)
 
-Both sprites will have the code blocks that you have copied. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
+दोनों स्प्राइट्स में आपके द्वारा कॉपी किए गए कोड ब्लॉक होंगे। यदि आप कोड को एक स्प्राइट से दूसरे स्प्राइट में ले जा रहे हैं, तो आप कोड को दूसरे स्प्राइट में कॉपी करने के बाद पहले स्प्राइट से मिटा सकते हैं।
 
 

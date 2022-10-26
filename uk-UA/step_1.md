@@ -1,8 +1,8 @@
 
-You can copy code from one sprite to another sprite in the Sprite list:
+Ти можеш скопіювати код з одного спрайту в інший зі Списку спрайтів:
 
-![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
+![Перетягни код з Області коду одного спрайта на інший спрайт у Списку спрайтів, а потім відпусти код.](images/drag-parrot-code.gif)
 
-Both sprites will have the code blocks that you have copied. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
+Обидва спрайти матимуть блоки коду, які ти скопіював. Якщо ти переміщуєш код з одного спрайта на інший, ти можеш видалити код з першого спрайта після того, як скопіюєш його в інший спрайт.
 
 

@@ -1,11 +1,11 @@
 ---
-title: Copy code from one sprite to another
+title: Копіювання коду з одного спрайту в інший
 hero_image: images/banner.png
-description: Drag code from the Code area of one sprite to another sprite
+description: Перетягування коду з Області коду одного спрайта на інший спрайт
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-23"
 steps:
   - 
-    title: Copy code from one sprite to another
+    title: Копіювання коду з одного спрайту в інший

@@ -1,5 +1,5 @@
 
-Možeš kopirati kôd s jednog lika na drugi lik koji se nalazi popisu likova:
+Možeš kopirati kôd s jednog lika na drugi lik koji se nalazi na popisu likova:
 
 ![Povuci kôd iz područja kôda jednog lika u drugi lik koji se nalazi na popisu likova, a zatim pusti kôd.](images/drag-parrot-code.gif)
 

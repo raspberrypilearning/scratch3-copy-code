@@ -1,11 +1,11 @@
 ---
-title: Copy code from one sprite to another
+title: Kopiraj kôd s jednog lika na drugi
 hero_image: images/banner.png
-description: Drag code from the Code area of one sprite to another sprite
+description: Povuci kôd iz područja kôda jednog lika u drugi lik
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-23"
 steps:
   - 
-    title: Copy code from one sprite to another
+    title: Kopiraj kôd s jednog lika na drugi

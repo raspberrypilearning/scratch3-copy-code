@@ -1,8 +1,8 @@
 
-You can copy code from one sprite to another sprite in the Sprite list:
+Možeš kopirati kôd s jednog lika na drugi lik koji se nalazi popisu likova:
 
-![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
+![Povuci kôd iz područja kôda jednog lika u drugi lik koji se nalazi na popisu likova, a zatim pusti kôd.](images/drag-parrot-code.gif)
 
-Both sprites will have the code blocks that you have copied. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
+Oba lika će imati kopirane blokove kôda. Ako premještaš kôd s jednog lika na drugi, možeš izbrisati kôd s prvog lika nakon što ga kopiraš na drugi lik.
 
 

@@ -1,11 +1,11 @@
 ---
-title: Copy code from one sprite to another
+title: Kopiera kod från en sprajt till en annan
 hero_image: images/banner.png
-description: Drag code from the Code area of one sprite to another sprite
+description: Dra kod från en sprajts kodområde till en annan sprajts
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-23"
 steps:
   - 
-    title: Copy code from one sprite to another
+    title: Kopiera kod från en sprajt till en annan

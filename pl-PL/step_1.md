@@ -1,8 +1,8 @@
 
-You can copy code from one sprite to another sprite in the Sprite list:
+Możesz kopiować kod między duszkami znajdującymi się na liście duszków:
 
-![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
+![Przeciągnij kod z obszaru Skrypt do innego duszka z listy duszków, a następnie puść go.](images/drag-parrot-code.gif)
 
-Both sprites will have the code blocks that you have copied. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
+Oba duszki będą miały skopiowane przez Ciebie bloczki kodu. Jeśli przenosisz kod z jednego duszka do drugiego, to możesz usunąć go z pierwszego duszka po skopiowaniu do drugiego.
 
 

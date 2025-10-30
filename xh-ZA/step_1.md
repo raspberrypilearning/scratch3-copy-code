@@ -1,8 +1,8 @@
 
-You can copy code from one sprite to another sprite in the Sprite list:
+Uyakwai ukukhuphela ikhowudi ukusuka kwindawo yekhowudi uyise kwesinye isprite kuluhlu lwezisprite:
 
-![Drag code from one sprite's Code area to another sprite in the Sprite list, then let go of the code.](images/drag-parrot-code.gif)
+![Tsala ikhowudi kwindawo yeKhowudi ye-sprite uyibeke kwindawo yeKhowudi kwesinye i-sprite kuluhlu lwe-Sprite, emva koko uyibeke ikhowudi.](images/drag-parrot-code.gif)
 
-Both sprites will have the code blocks that you have copied. If you are moving the code from one sprite to the other, you can delete the code from the first sprite after you have copied it to the other sprite.
+Zombini izisprites ziya kuba neebhloko zekhowudi oyikhupheleyo. Ukuba ukhuphela ikhowudi ukusuka kwesinye isprite ukuya kwesinye, unokucima ikhowudi kwisprite sokuqala emva kokuba uyikhuphele kwesinye isprite.
 
 
